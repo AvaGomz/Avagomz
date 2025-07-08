@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**AvaGomz/Avagomz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Bilingual Virtual Assistant & Junior Web Developer (EN/PT)  
+ Certified in HTML & CSS (freeCodeCamp, 2025)  
+ Currently building my portfolio and learning JavaScript  
 
-Here are some ideas to get you started:
+##  Currently Learning
+- JavaScript (freeCodeCamp)
+- Version control with Git
+- How to land my first tech job!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Skills
+
+- HTML5, CSS3  
+- Google Workspace, Microsoft Office  
+- Calendar & Email Management  
+- Bilingual Communication (Portuguese 🇧🇷 | English 🇺🇸)
+
+##  Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/avagomes)  
+- Email: sfoavac@gmail.com
